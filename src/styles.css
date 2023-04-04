@@ -1,0 +1,22 @@
+* {
+  background: #4c8482;
+  margin: 0;
+
+}
+
+h1 {
+  font-family: Roboto, sans-serif;
+  display: block;
+  
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+.logo-contenedor {
+  width: 20vw;
+  display: block;
+}
